@@ -72,7 +72,7 @@ function HomePage() {
         </article>
       </div>
 
-      {/* <aside className="image-container">
+      {/* <aside class="image-container">
         <img
           src="calculator-image.jpg"
           alt="A calculator which is very useful for calculating budgets"
